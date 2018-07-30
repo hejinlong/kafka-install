@@ -1,7 +1,7 @@
 #!/bin/sh
 #-------------------------------
 #author:Jinlong              -              -
-#email:he-jinlong@qq.com -
+#email:hello21st@gmail.com -
 #-------------------------------
 echo -e "\033[32m{`date`}[Start] Initialize the installation.............................\033[0m"
 if [ ! $1 ]
